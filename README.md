@@ -1,0 +1,2 @@
+# premium-pinhole-cam-001-pinhole-camera-building-calc
+Tired of guessing your pinhole size, focal length, or exposure time? Get precise calculations and a guided building workflow in one Notion template.  The Pinhole Camera Building &amp; Calc Craft Hub turns your Notion workspace into a pinhole engineering lab. No more scattered formulas or messy spreadsheets — this template automates the math, organizes
